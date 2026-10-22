@@ -1,7 +1,7 @@
 // =========================
 // API URL (Change this)
 // =========================
-const API_URL = "https://practice-session-uoiq.onrender.com";
+const API_URL = "https://student-1-4kol.onrender.com";
 const STUDENTS_URL = `${API_URL}/students/`;
 
 // =========================
